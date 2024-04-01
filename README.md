@@ -1,2 +1,2 @@
 # bot-farm-king
-marcinmatysek1@gmail.com
+marcin.rewertyn@gmail.com
